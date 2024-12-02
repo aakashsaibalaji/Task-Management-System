@@ -65,7 +65,7 @@ Prerequisites:
 ## Steps:
 1.Clone the Repository
 ```plaintext
-git clone https://github.com/aakashsaibalaji/
+git clone https://github.com/aakashsaibalaji/Task-Management-System.git
 ```
 
 2.Install Dependencies
