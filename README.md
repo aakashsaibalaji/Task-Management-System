@@ -36,7 +36,7 @@ A full-stack web application built with **Next.js** for the frontend and **Expre
 ## Project Structure
 
 ## Demo:
-A video demonstration of the application is available [here](https://www.dropbox.com/scl/fi/e9w0lv2x71kb19amitlva/Loan-App-Assignment.mkv?rlkey=7idf070qcz2fs36v0omcol7z0&st=7a86mshw&dl=0).
+A video demonstration of the application is available [here](https://www.dropbox.com/scl/fi/97njihfbi7i5ieiuksfxt/2024-12-02-19-44-56.mkv?rlkey=ouuft0ihp5v2tglbrksujgkmk&st=rkjkisae&dl=0).
 
 ### Frontend and Backend Structure Including Instructions.:
 ```plaintext
@@ -63,7 +63,7 @@ Prerequisites:
 - A **Firebase project** configured for authentication.
 ---
 ## Steps:
-1. Clone the Repository
+1.Clone the Repository
 ```plaintext
 git clone https://github.com/aakashsaibalaji/
 ```
@@ -74,7 +74,7 @@ Navigate to both the frontend and backend folders and run:
 npm install
 ```
 
-3. Add Firebase Configuration
+3.Add Firebase Configuration
 Create a .env.local file in the frontend folder and add the following keys (replace with your Firebase project values)
 ```plaintext
 NEXT_PUBLIC_FIREBASE_API_KEY=
